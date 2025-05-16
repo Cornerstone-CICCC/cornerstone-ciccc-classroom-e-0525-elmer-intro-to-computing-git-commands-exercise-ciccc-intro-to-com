@@ -47,7 +47,7 @@
 2. Accidentally add a temporary file:
    - `touch temp.txt`
    - `git add temp.txt`
-   - `git commit -m "Added temp.txt"
+   - `git commit -m "Added temp.txt"`
 
 3. Remove `temp.txt` from tracking and delete it:
    - `git rm temp.txt`

@@ -61,7 +61,7 @@
 1. Introduce a new change:
    - `echo "\nThis will be reverted soon." >> guide.txt`
    - `git add guide.txt`
-   - `git commit -m "Add line to be reverted"`
+   - `git commit -m "Add line to be reverted" `
 
 2. Use `git log` to view the commit history:
    - `git log`
